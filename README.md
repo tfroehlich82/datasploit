@@ -7,7 +7,7 @@
 
 
 
-# Overview of the tool:
+# Overview of the Framework:
 * Performs OSINT on a domain / email / username / phone and find out information from different sources.
 * Correlates and collaborate the results, show them in a consolidated manner. 
 * Tries to find out credentials, api-keys, tokens, subdomains, domain history, legacy portals, etc. related to the target. 
